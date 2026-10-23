@@ -1,0 +1,57 @@
+{
+  "sites": {
+    "bakery": {
+      "name": "haru no tane bakery",
+      "short_name": "haru no tane",
+      "kind_label": "Bakery",
+      "hero_title": "A little taste of the seasons,\nevery day.",
+      "description": "Baking small batches of comforting bread inspired by the changing seasons.",
+      "subtitle": "Notes and events from a small bakery",
+      "hero_note": "Bread and daily life",
+      "about": "This bakery is fictional. No information about any real business is included.",
+      "source_hash": "8ca4e135a88dbc004219638cb1ff514123e67ce58162b5ecf7f6b34994678895"
+    }
+  },
+  "posts": {
+    "bakery:pickup-news": {
+      "title": "Today’s bread and pickup information",
+      "category": "News",
+      "summary": "Freshly prepared breads and a quick note on collecting your order.",
+      "cover_alt": "Paper bags and freshly baked bread",
+      "markdown": "Today we have a small selection of focaccia, rolls and sweet breads made with seasonal fruit.\n\nSome are packed in bags, while others are in baskets at the counter. If you reserved bread, please give us your name when you arrive.\n\n![Today's bread](bakery/pickup.webp)\n\n*This is a fictional announcement for the demo.*",
+      "source_hash": "95d989a7514b09eb00a005b898074dd698672f62a8f2e856869e6e234795464d"
+    },
+    "bakery:apple-walnut": {
+      "title": "New for autumn: apple and walnut bread",
+      "category": "Bread & menu",
+      "summary": "A seasonal loaf made with tart apples and fragrant walnuts.",
+      "cover_alt": "A sliced apple and walnut loaf",
+      "markdown": "We baked a moist loaf with tangy apples and aromatic walnuts. Little pieces of apple are tucked into the crumb.\n\n## How to enjoy it\n\n- Toast lightly to bring out the aroma\n- Add a little butter\n- Enjoy with your morning coffee\n\n![Apple and walnut bread](bakery/apple-bread.webp)",
+      "source_hash": "b115177560a0ec52be346b06554a5cbf267e90f3d7cabdf0b32ee2a34643a9e3"
+    },
+    "bakery:market-thanks": {
+      "title": "Thank you for visiting our weekend market",
+      "category": "Bakery journal",
+      "summary": "A lovely autumn day of handing our bread directly to visitors.",
+      "cover_alt": "Bread stall at an autumn market",
+      "markdown": "We joined a small market on a weekend when the autumn leaves were beginning to change.\n\nSome visitors stopped by because of the smell of fresh bread; others asked about serving and storing it. Meeting everyone in person is the best reward.\n\n![Our market stall](bakery/market.webp)\n\nNext time we hope to bring more walnut bread and seasonal pastries.",
+      "source_hash": "5a21f4c70ea2c21053fd53ebebb5e116250fef0a16133963047fe4e6e699ebec"
+    },
+    "bakery:winter-music": {
+      "title": "Winter bread and an intimate music gathering",
+      "category": "Events",
+      "summary": "An invitation to a peaceful afternoon of fresh bread and acoustic music.",
+      "cover_alt": "An intimate gathering with bread and music",
+      "markdown": "As the light through the windows softens, we are planning a gathering to enjoy bread and music together.\n\n## About the little concert\n\nFresh bread, warm drinks and acoustic music: we hope to create a gentle afternoon.\n\n![Bread and music gathering](bakery/winter-music.webp)\n\n*This is a fictional event. No date or booking details have been set.*",
+      "source_hash": "ccbfdacbc952b5ca32e3b4a43fe9f532f1dccf5cc173cda9fedaeae2c3ba7581"
+    },
+    "bakery:bread-notes": {
+      "title": "Notes from the bakery: what’s next",
+      "category": "Bakery journal",
+      "summary": "Ideas for seasonal bread and small gatherings as autumn turns to winter.",
+      "cover_alt": "An idea notebook on a kitchen table",
+      "markdown": "We spread our notebooks out on the kitchen table and jot down breads we would like to bake and small gatherings we hope to hold.\n\n## Ideas we’re exploring\n\n- Seasonal bread with apples and walnuts\n- Taking part in a neighborhood market\n- A peaceful afternoon around bread and warm drinks\n\n![Bakery idea notebook](bakery/season.webp)",
+      "source_hash": "401b7b9dc6c32089abd442a1ac6eb0847f85978dd5ea055120ff2cf7c68c63a0"
+    }
+  }
+}

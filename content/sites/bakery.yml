@@ -1,0 +1,15 @@
+id: bakery
+name: haru no tane bakery
+short_name: haru no tane
+kind: shop
+kind_label: パン屋
+accent: '#486653'
+eyebrow: BAKED SLOWLY, SHARED WARM
+hero_title: '今日のひとくちに、
+
+  小さな季節を。'
+description: 季節の実りをヒントに、毎日食べたくなるパンを小さな工房で焼いています。
+subtitle: 小さなパン工房の日々とイベント
+hero_note: パンと暮らしの記録
+about: 架空のベーカリーです。実在店舗の住所・連絡先は使用していません。
+hero_image: bakery/hero-hardbread.webp
